@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "(fkill :8888 || exit 0) && PORT=8888 tiny river"
+  },
+  "author": "",
+  "license": "ISC"
+}
